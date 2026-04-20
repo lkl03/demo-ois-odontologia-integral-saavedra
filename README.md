@@ -1,2 +1,7 @@
-# demo-ois-odontologia-integral-saavedra
-Demo web para OIS Odontología Integral Saavedra — diseñada por eterlab.
+# OIS Odontología Integral Saavedra
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
